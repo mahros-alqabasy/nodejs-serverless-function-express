@@ -1,0 +1,25 @@
+Folder PATH listing
+Volume serial number is 0EC5-0450
+D:\PROJECTS\NODEJS\NODEJS-SERVERLESS-FUNCTION-EXPRESS
+�   .gitignore
+�   package-lock.json
+�   package.json
+�   README.md
+�   vercel.json
+�   
++---.vercel
+�   �   project.json
+�   �   README.txt
+�   �   
++---api
+�   �   .env
+�   �   index.js
+�   �   out
+�   �   
+�   +---models
+�           Database.js
+�           Task.js
+�           
++---public
+        index.html
+        
